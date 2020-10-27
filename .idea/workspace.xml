@@ -13,6 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="2c1e951f-b312-4523-aed4-674b5dbf8747" />
   <component name="ProjectId" id="1jQewFf7vqSerbd9NSVcfvxRU7n" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,7 +23,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
     <property name="nodejs_package_manager_path" value="npm" />
+=======
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+>>>>>>> 2b3ddb6d79542dc97bcca92f47aba696b0ed71e5
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -38,9 +48,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603740989050</updated>
+<<<<<<< HEAD
       <workItem from="1603740993760" duration="6086000" />
       <workItem from="1603747417749" duration="3306000" />
       <workItem from="1603751326318" duration="802000" />
+=======
+      <workItem from="1603740993760" duration="3266000" />
+      <workItem from="1603745139076" duration="6527000" />
+>>>>>>> 2b3ddb6d79542dc97bcca92f47aba696b0ed71e5
     </task>
     <servers />
   </component>
